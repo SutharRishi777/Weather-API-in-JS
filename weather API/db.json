@@ -1,0 +1,17 @@
+
+{
+    "Data": [
+        {
+            "city": "Navsari",
+            "country": "India",
+            "temperature": 30,
+            "weather": "Partly Cloudy"
+        },
+        {
+            "city": "Surat",
+            "country": "India",
+            "temperature": 32,
+            "weather": "Sunny"
+        }
+    ]
+}
